@@ -1,0 +1,4 @@
+submit Tomasz.Zuchowski@math.uni.wroc.pl FiGfa8rWs42S4FS3
+submit Tomasz.Zuchowski@math.uni.wroc.pl EfmH3pOE3hcpTZmW
+console
+scala -cp scalacheck.jar

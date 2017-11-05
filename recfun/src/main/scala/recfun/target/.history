@@ -1,0 +1,22 @@
+console
+pascal(3,4)
+import Main
+import Main._
+import pascal
+import Main.pascal
+import ._
+import _
+help import
+help +
+help ++
+import Main
+import Main._
+console
+import Main
+import Main._
+Main
+run-main
+run-main 
+bu
+import 
+console

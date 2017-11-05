@@ -1,0 +1,428 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/common/package$.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/common/package.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$2.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3$$anonfun$apply$3$$anonfun$apply$4.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3$$anonfun$apply$3.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$4.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$stepList$1$1$$anonfun$apply$1$$anonfun$apply$2.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$stepList$1$1$$anonfun$apply$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$stepList$1$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$delayedInit$body.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$combinationsAcc$1$1$$anonfun$apply$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$combinationsAcc$1$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$dictionaryByOccurrences$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$sentenceOccurrences$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$wordOccurrences$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$wordOccurrences$2.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$wordOccurrences$3.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package$.class
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> /home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package.class
+binary dependencies:
+8 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> /home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> /home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> /home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> /home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> common.package
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> common.package$
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$dictionaryByOccurrences$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3$$anonfun$apply$3
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3$$anonfun$apply$3$$anonfun$apply$4
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$4
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceOccurrences$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$stepList$1$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$stepList$1$1$$anonfun$apply$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$stepList$1$1$$anonfun$apply$1$$anonfun$apply$2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$delayedInit$body
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$$anonfun$combinationsAcc$1$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$$anonfun$combinationsAcc$1$1$$anonfun$apply$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$$anonfun$dictionaryByOccurrences$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$$anonfun$sentenceOccurrences$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$$anonfun$wordOccurrences$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$$anonfun$wordOccurrences$2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp.Anagrams1$$anonfun$wordOccurrences$3
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$2
+used names:
+215 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> ::
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> <init>
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> <repeated>
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> Any
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> AnyRef
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> File
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> FileInputStream
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> InputStream
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> List
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> None
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> Nothing
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> Option
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> Predef
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> String
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> _root_
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> child
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> children
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> classesDir
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> common
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> exists
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> file
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> foldLeft
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> getClass
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> getParentFile
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> getResource
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> io
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> java
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> package
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> projectDir
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> resourceFile
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> resourcePath
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> scala
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> subFile
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> toURI
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> $conforms
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> +
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> ++
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> -
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> ::
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> :::
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> <init>
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> ==
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Anagrams
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> App
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Char
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> IndexedSeq
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Int
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> List
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Map
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Nil
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Occ
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Occurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Ordering
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Predef
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Sentence
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> String
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> StringCanBuildFrom
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Tuple2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> Word
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> _1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> _2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> acc
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> anagramAcc
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> apply
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> asInstanceOf
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> augmentString
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> canBuildFrom
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> combinations
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionary
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionary0
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionaryByOccurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> element
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> flatMap
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forall
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> groupBy
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> head
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> i
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> immutable
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> intWrapper
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> isInstanceOf
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> length
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> loadDictionary
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> map
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> math
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> ne
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> occLeft
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurrencesLeft
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> package
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> reduceRight
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> s
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> scala
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentence
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentenceOccurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> sortBy
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> stepList
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> subAcc
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> subOcc
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> subtract
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> toList
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> toLowerCase
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> toMap
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> unary_!
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> until
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> w
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> wGroup
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> wList
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> withDefaultValue
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> withFilter
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> word
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> wordOccurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> x
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> x1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> xs
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> y
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> yMap
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> ++
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> ::
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> <init>
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> ==
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Anagrams1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> AnyRef
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Char
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> IndexedSeq
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Int
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> List
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Map
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Nil
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Occurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Ordering
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Predef
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Sentence
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> String
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Tuple2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> Word
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> _1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> _2
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> acc
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> apply
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> asInstanceOf
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> augmentString
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> c
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> canBuildFrom
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> chars
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> combinationsAcc
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> dictionary
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> dictionary1
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> dictionaryByOccurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> flatMap
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> flatten
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> forcomp
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> groupBy
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> head
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> immutable
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> intWrapper
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> isInstanceOf
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> length
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> loadDictionary
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> m
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> map
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> math
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> n
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> ne
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> occ
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> occurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> occurrencesLeft
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> package
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> s
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> scala
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> sortBy
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> to
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> toList
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> toLowerCase
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> toString
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> w
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> withDefaultValue
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> word
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> wordOccurrences
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> x
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> y
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> +
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> <init>
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> AnyRef
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> Codec
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> Exception
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> List
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> Option
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> Predef
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> Source
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> apply
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> close
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> common
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> dictionaryPath
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> e
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> error
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> fallbackSystemCodec
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> forcomp
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> fromInputStream
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> getClass
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> getLines
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> getOrElse
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> getResourceAsStream
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> immutable
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> io
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> mkString
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> orElse
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> package
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> println
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> resourceAsStreamFromSrc
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> s
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> scala
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> sys
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> toList
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> wordstream
+product stamps:
+34 items
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/common/package$.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/common/package.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$2.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3$$anonfun$apply$3.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$3.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$anagramAcc$1$4.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$stepList$1$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$stepList$1$1$$anonfun$apply$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$stepList$1$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams$delayedInit$body.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$combinationsAcc$1$1$$anonfun$apply$1.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$combinationsAcc$1$1.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$sentenceOccurrences$1.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$wordOccurrences$1.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$wordOccurrences$2.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$$anonfun$wordOccurrences$3.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1$.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/Anagrams1.class -> lastModified(1488487707000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package$.class -> lastModified(1488485968000)
+/home/tomasz/Progfun/progfun/forcomp/target/scala-2.11/classes/forcomp/package.class -> lastModified(1488485968000)
+source stamps:
+4 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> hash(c962137b06183951a4c6fe85259d77abec291695)
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> hash(ec6d0ed2120ca1b5e00a5f872f307f731495f614)
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> hash(77c0a618470b8baef7ad6c4ec5791b3e05901b88)
+binary stamps:
+2 items
+/home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar -> lastModified(1485188727000)
+class names:
+2 items
+/home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.TraversableOnce
+/usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFakK1LKXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS90b21hc3ovUHJvZ2Z1bi9wcm9nZnVuL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAiLlLgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJvH++x0AAZub3RpZnlzcQB+AAzYlMRSdAAEd2FpdHNxAH4ADIbe1DN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGGzzTXQACHN1YnRyYWN0c3EAfgAMueeH+HQABmVxdWFsc3NxAH4ADBCoktB0AApkaWN0aW9uYXJ5c3EAfgAM5i8oMnQADGFzSW5zdGFuY2VPZnNxAH4ADI0muRd0AA5leGVjdXRpb25TdGFydHNxAH4ADCT2FrJ0AA93b3JkT2NjdXJyZW5jZXNzcQB+AAzKvpIHdAAMc3luY2hyb25pemVkc3EAfgAM9k8Eu3QADSRpc0luc3RhbmNlT2ZzcQB+AAzhUvK0dAAQc2VudGVuY2VBbmFncmFtc3NxAH4ADJNIDfN0AAx3b3JkQW5hZ3JhbXNzcQB+AAwzwZGadAAEbWFpbnNxAH4ADOF1/CN0AAlub3RpZnlBbGxzcQB+AAwvbkjDdAAMaXNJbnN0YW5jZU9mc3EAfgAMn12YNHQADGNvbWJpbmF0aW9uc3NxAH4ADI30Hzd0AAtPY2N1cnJlbmNlc3NxAH4ADKrdyUJ0AAI9PXNxAH4ADHetZux0AAVjbG9uZXNxAH4ADC3GzdF0ABdkaWN0aW9uYXJ5QnlPY2N1cnJlbmNlc3NxAH4ADG1+iXR0AAh0b1N0cmluZ3NxAH4ADNUS23l0AARhcmdzc3EAfgAMuadwKXQAAiE9c3EAfgAM7DoGpXQAE3NlbnRlbmNlT2NjdXJyZW5jZXNzcQB+AAwlcZiOdAAIZ2V0Q2xhc3NzcQB+AAyqKMcRdAACbmVzcQB+AAxi6+gNdAAIQW5hZ3JhbXNzcQB+AAw7KkDQdAACZXFzcQB+AAxCG7URdAALZGljdGlvbmFyeTBzcQB+AAwCYCfWdAAIU2VudGVuY2VzcQB+AAz7uMDPdAAEV29yZHNxAH4ADJ2vXPR0AAtkZWxheWVkSW5pdHNxAH4ADGSo/o50AAIjI3NxAH4ADHCUonN0AAhmaW5hbGl6ZXNxAH4ADO9tmaV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABBmb3Jjb21wLkFuYWdyYW1zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aenhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AeQBwc3EAfgB+c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AgnNxAH4AeQBwc3EAfgB+dXEAfgBaAAAAAHNxAH4AeQBwc3EAfgB+dXEAfgBaAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBgcQB+AGl1cQB+AGoAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCPeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIF0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AqXNxAH4AbABxAH4AKXVxAH4AbwAAAABzcQB+AJx0AARVbml0cQB+AKJ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCPeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBydAAFUGxhaW5xAH4AO3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AnVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AgXNxAH4AnHQABUFycmF5cQB+AKJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AnHQABlN0cmluZ3NxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKh0AARqYXZhc3EAfgCodAAEbGFuZ3EAfgCtc3EAfgB5AHBzcQB+AH51cQB+AMQAAAAEc3EAfgCcdAADQXBwcQB+AKJzcQB+AJx0AAtEZWxheWVkSW5pdHEAfgCic3EAfgCcdAAGT2JqZWN0cQB+AMhzcQB+AJx0AANBbnlxAH4AonVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2ZvcmNvbXBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqQrUspdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyWITewYYOVGkxv6FJZ13q+wpFpU=
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDRuwY+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMMXX2l0AAZub3RpZnlzcQB+AAwekBf1dAAJQW5hZ3JhbXMxc3EAfgAMitj5lHQABHdhaXRzcQB+AAyv7UQQdAANJGFzSW5zdGFuY2VPZnNxAH4ADJpscGt0AAZlcXVhbHNzcQB+AAx8oPa4dAAKZGljdGlvbmFyeXNxAH4ADOBlljt0AAxhc0luc3RhbmNlT2ZzcQB+AAwKpB7AdAAPd29yZE9jY3VycmVuY2Vzc3EAfgAMxvE+hXQADHN5bmNocm9uaXplZHNxAH4ADKF7G8R0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMXYEdnQADHdvcmRBbmFncmFtc3NxAH4ADJlYSrV0AAlub3RpZnlBbGxzcQB+AAxr42QMdAAMaXNJbnN0YW5jZU9mc3EAfgAMGaf8u3QADGNvbWJpbmF0aW9uc3NxAH4ADB3N40d0AAtPY2N1cnJlbmNlc3NxAH4ADP5t5z10AAI9PXNxAH4ADLD5ug50AAVjbG9uZXNxAH4ADODH9J10AAtkaWN0aW9uYXJ5MXNxAH4ADC7OSwB0ABdkaWN0aW9uYXJ5QnlPY2N1cnJlbmNlc3NxAH4ADG+kdW50AAh0b1N0cmluZ3NxAH4ADOtgUzJ0AAIhPXNxAH4ADIUziah0ABNzZW50ZW5jZU9jY3VycmVuY2Vzc3EAfgAMCu73k3QACGdldENsYXNzc3EAfgAMhV+K3HQAAm5lc3EAfgAMYep2jnQAAmVxc3EAfgAM/YrVYnQACFNlbnRlbmNlc3EAfgAMrzhk3XQABFdvcmRzcQB+AAy+v+VRdAACIyNzcQB+AAyYQwIUdAAIZmluYWxpemVzcQB+AAzIa4MvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARZm9yY29tcC5BbmFncmFtczF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBseHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBrAHBzcQB+AHBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgB0c3EAfgBrAHBzcQB+AHB1cQB+AE4AAAAAc3EAfgBrAHBzcQB+AHB1cQB+AE4AAAAAc3EAfgBrAHBzcQB+AHB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJFzcQB+AIR0AANBbnlzcQB+AIhzcQB+AIt1cQB+AI4AAAACc3EAfgCQdAAFc2NhbGFxAH4Al3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2ZvcmNvbXBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqQx93cdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7G0O0hIMobXgCl+HLzB/cxSV9hQ=
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDIdJL/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNbz0pZ0AAZub3RpZnlzcQB+AAxW1XgtdAAHcGFja2FnZXNxAH4ADAl+dyx0AAR3YWl0c3EAfgAMLc/YrXQADSRhc0luc3RhbmNlT2ZzcQB+AAyZ4UMNdAAGZXF1YWxzc3EAfgAMtOzWKnQADGFzSW5zdGFuY2VPZnNxAH4ADA4Z8Y50AAxzeW5jaHJvbml6ZWRzcQB+AAw5MC4/dAANJGlzSW5zdGFuY2VPZnNxAH4ADM8ZN550AAlub3RpZnlBbGxzcQB+AAxF25EtdAAMaXNJbnN0YW5jZU9mc3EAfgAMqDWMmHQADmxvYWREaWN0aW9uYXJ5c3EAfgAMaRwC5nQAAj09c3EAfgAMeOTc4nQABWNsb25lc3EAfgAMewrlhnQACHRvU3RyaW5nc3EAfgAMGBCTnnQAAiE9c3EAfgAMy+/k/nQACGdldENsYXNzc3EAfgAMQqdvvXQAAm5lc3EAfgAM+PLHM3QADmRpY3Rpb25hcnlQYXRoc3EAfgAMz5Z3h3QAAmVxc3EAfgAMScfz5HQAAiMjc3EAfgAMUJ+SMHQACGZpbmFsaXplc3EAfgAMJd7D+XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2ZvcmNvbXAucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFsAcHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGRzcQB+AFsAcHNxAH4AYHVxAH4APgAAAABzcQB+AFsAcHNxAH4AYHVxAH4APgAAAABzcQB+AFsAcHNxAH4AYHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgXNxAH4AdHQAA0FueXNxAH4AeHNxAH4Ae3VxAH4AfgAAAAJzcQB+AIB0AAVzY2FsYXEAfgCHdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZm9yY29tcHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpCtSyl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L2hvbWUvdG9tYXN6L1Byb2dmdW4vcHJvZ2Z1bi9mb3Jjb21wL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR3wKYYRwuLrvetbE7FeRs+BZAbiA==
+external apis:
+0 items
+source infos:
+4 items
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/Anagrams1.scala -> 
+AAAAAAAAAAA=
+/home/tomasz/Progfun/progfun/forcomp/src/main/scala/forcomp/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVop7A1F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoqO9/11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoqdKPp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoqhIKl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoqxVFF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoq0+gt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVoq6/Pt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVorFSOV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVorKhwV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVwd0sr11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVwd/McF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVweMU+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVweTWld1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3RvbWFzei9wcm9nZnVuLWFzc2lnbm1lbnRzL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpCtSyl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpDH3dx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3RvbWFzei9Qcm9nZnVuL3Byb2dmdW4vZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

@@ -1,0 +1,55 @@
+[0m[[0mdebug[0m] [0mInvalidating /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar: class java.lang.Object now provided by /usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar[0m
+[0m[[0mdebug[0m] [0mThe patmat.Huffman$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	makeCodeTree, foldRight, showlist, decodedSecret1, decodedSecret.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) patmat.Huffman$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) patmat.Huffman$.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(/home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(/home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6$$anon$3.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$TestTrees.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1$$anon$1.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$5.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$3.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$TestTrees$class.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2$$anon$2.class, /home/tomasz/progfun-assignments/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$4.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set(NamesChange(patmat.Huffman$,ModifiedNames(regularNames = makeCodeTree, foldRight, showlist, decodedSecret1, decodedSecret, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala, /home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(/home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala, /home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/tomasz/Progfun/progfun/patmat/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler b9272b, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-i386/jre/classes:/home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/tomasz/Progfun/progfun/patmat/target/scala-2.11/test-classes:/home/tomasz/Progfun/progfun/patmat/target/scala-2.11/classes:/home/tomasz/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/home/tomasz/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/home/tomasz/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/tomasz/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/home/tomasz/.ivy2/cache/junit/junit/jars/junit-4.10.jar:/home/tomasz/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.174304223 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/tomasz/Progfun/progfun/patmat/src/test/scala/patmat/HuffmanSuite.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	unconstrainedEquality, convertToEqualizer.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/tomasz/progfun-assignments/patmat/src/test/scala/patmat/HuffmanSuite.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	unconstrainedEquality, convertToEqualizer.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

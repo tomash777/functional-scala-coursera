@@ -1,0 +1,49 @@
+[0m[[0mdebug[0m] [0mThe quickcheck.QuickCheckHeap source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	emptyHeaps, nonEmptyHeaps.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) quickcheck.QuickCheckHeap: Set(/home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) quickcheck.QuickCheckHeap.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set(NamesChange(quickcheck.QuickCheckHeap,ModifiedNames(regularNames = emptyHeaps, nonEmptyHeaps, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set(/home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/tomasz/progfun-assignments/quickcheck/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 10102476, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/tomasz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/tomasz/progfun-assignments/quickcheck/target/scala-2.11/test-classes:/home/tomasz/progfun-assignments/quickcheck/target/scala-2.11/classes:/home/tomasz/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/home/tomasz/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/home/tomasz/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/tomasz/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.1.jar:/home/tomasz/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/home/tomasz/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar:/home/tomasz/.ivy2/cache/junit/junit/jars/junit-4.10.jar:/home/tomasz/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 45.616130157 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/tomasz/progfun-assignments/quickcheck/src/test/scala/quickcheck/QuickCheckSuite.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	nonEmptyHeaps, emptyHeaps.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
